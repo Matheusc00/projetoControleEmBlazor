@@ -1,0 +1,60 @@
+﻿@page "/"
+@using Models
+
+<PageTitle>Equipamentos Manutinfo</PageTitle>
+
+<h1>Equipamentos Manutinfo</h1>
+
+<table>
+    <thead>
+
+        <th>Id</th>
+        <th>Setor</th>
+        <th>Maquina</th>
+        <th>CPD</th>
+        <th>Configuração</th>
+        <th>Data Ultima Manutenção</th>
+        <th>Data Da Proxima Manutenção</th>
+        <th>Team Viewer</th>
+        <th>Monitor</th>
+        <th>CPD</th>
+        <th>Data Ultima Manutenção</th>
+        <th>Data Da Proxima Manutenção</th>
+        <th>Nobreak</th>
+        <th>CPD</th>
+        <th>Data Ultima Manutenção</th>
+        <th>Data Da Proxima Manutenção</th>
+        <th>Impressora</th>
+        <th>CPD</th>
+        <th>Data Ultima Manutenção</th>
+        <th>Data Da Proxima Manutenção</th>
+        <th>Estabilizador</th>
+        <th>CPD</th>
+        <th>Data Ultima Manutenção</th>
+        <th>Data Da Proxima Manutenção</th>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>
+
+@code {
+
+    private Controle[] controles = new[]
+    {
+new Controle()
+{
+Id = 1,
+Setor = "Manutinfo",
+Maquina = "Infotecx01",
+Configuracao = "I3-10100 16GB DDR4 SSD 240GB Win10",
+TeamViewer = 123456789,
+Monitor = "Samsung",
+CPD = 1234,
+Nobreak = "APC 600VA",
+//CPD = 5678,
+Impressora = "Brother",
+}
+}
+
+}

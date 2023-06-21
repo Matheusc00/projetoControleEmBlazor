@@ -40,21 +40,17 @@
 
 @code {
 
-    private Controle[] controles = new[]
-    {
-new Controle()
+    private class Controle
 {
-Id = 1,
-Setor = "Manutinfo",
-Maquina = "Infotecx01",
-Configuracao = "I3-10100 16GB DDR4 SSD 240GB Win10",
-TeamViewer = 123456789,
-Monitor = "Samsung",
-CPD = 1234,
-Nobreak = "APC 600VA",
-//CPD = 5678,
-Impressora = "Brother",
-}
+    public string Setor { get; set; }
+
+    public Controle()
+    {
+        // Definir um valor padrão para Setor no construtor
+        Setor = "Valor padrão";
+    }
+
+    // Outros métodos e propriedades da classe Controle
 }
 
-}
+    }

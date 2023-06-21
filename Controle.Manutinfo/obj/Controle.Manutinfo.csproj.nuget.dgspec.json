@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcastilho\\Documents\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj": {}
+    "C:\\Users\\LARA&&MATHEUS\\Documents\\GitHub\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcastilho\\Documents\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj": {
+    "C:\\Users\\LARA&&MATHEUS\\Documents\\GitHub\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcastilho\\Documents\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj",
+        "projectUniqueName": "C:\\Users\\LARA&&MATHEUS\\Documents\\GitHub\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj",
         "projectName": "Controle.Manutinfo",
-        "projectPath": "C:\\Users\\mcastilho\\Documents\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj",
-        "packagesPath": "C:\\Users\\mcastilho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcastilho\\Documents\\projetoControleEmBlazor\\Controle.Manutinfo\\obj\\",
+        "projectPath": "C:\\Users\\LARA&&MATHEUS\\Documents\\GitHub\\projetoControleEmBlazor\\Controle.Manutinfo\\Controle.Manutinfo.csproj",
+        "packagesPath": "C:\\Users\\LARA&&MATHEUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LARA&&MATHEUS\\Documents\\GitHub\\projetoControleEmBlazor\\Controle.Manutinfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mcastilho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LARA&&MATHEUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,7 +69,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.7, 7.0.7]"
+              "version": "[7.0.5, 7.0.5]"
             }
           ],
           "frameworkReferences": {
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
